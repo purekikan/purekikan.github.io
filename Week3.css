@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+#test{
+  box-shadow: 16px -7px 9px rgba(0, 0, 0, 0.3);
+}
+
+#pfp{
+  background-image: url('./IMG_3672.JPG');
+  background-position: left 20% center;
+  box-shadow: 15px -7px 5px rgb(0 0 0 / 25%);
+}
